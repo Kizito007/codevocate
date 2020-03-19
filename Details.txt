@@ -1,0 +1,5 @@
+Name: Nwaka Kizito
+E-mail Address: nwakakelechi49@gmail.com
+Slack Username: codevocate 
+Track: Backend Development
+Courses: NodeJs & C#
